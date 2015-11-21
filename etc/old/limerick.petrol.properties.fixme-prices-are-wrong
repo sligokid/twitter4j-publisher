@@ -1,0 +1,7 @@
+oauth.consumerKey=YqBc9JgiLYAzCsTPI0KCpQ
+oauth.consumerSecret=P0K4Ub6TgYR0pFYZOpHXC2HrMeUuTX2cRq7UcO0
+oauth.accessToken=1598861851-u6SSL5zYp0EicgLYrzIDW2BuHf5AnLlM89NdUyE
+oauth.accessTokenSecret=k292eXYspLZkmf48dC5RmONCwz96HOBzpM86lXkB2E
+debug=true
+http.prettyDebug=true
+url=http://www.pumps.ie/api/getStationsByPriceAPI.php?county=Limerick&minLat=52.6022134800328&maxLat=52.70530704035818&minLng=-8.693275451660156&maxLng=-8.54736328125&fuel=petrol&noCache=0.6608537556603551

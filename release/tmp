@@ -1,0 +1,8 @@
+oauth.consumerKey=MNRNEkeFiJSgC3aSUGcUOw
+oauth.consumerSecret=JptpgRvFB8BKCeEF556FgvPuBN59WdWQxph832tPxkk
+oauth.accessToken=1855398931-CoddyFTOVfdmLdaknJTfZzGosoI6cx3BcPYdsLi
+oauth.accessTokenSecret=pvCJ9r2LAYSv4VAxZZ5mU9byBSqpW0IrzPVpzHaU
+debug=true
+http.prettyDebug=true
+url=http://www.newsnow.co.uk/h/Sport/Boxing?JavaScript=1&searchheadlines=&search=Reynolds
+hashtag=#Boxing

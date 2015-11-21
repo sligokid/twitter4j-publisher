@@ -1,0 +1,7 @@
+oauth.consumerKey=vRBxpckAAXWR4Tb4Wz7Ig
+oauth.consumerSecret=lThXxQrPXimebOMoIDmQymi0wrS2RqXkwwLQicFtwM
+oauth.accessToken=1598879160-5nmJD1vgGSekngr3DT0gPfFaNle41hk2SGFAD6I
+oauth.accessTokenSecret=tf1ZdpEqH19w6npC6zFCH9g9wqnDGjsNSyzrM2j994
+debug=true
+http.prettyDebug=true
+url=http://www.pumps.ie/api/getStationsByPriceAPI.php?county=Longford&minLat=53.6885749900279&maxLat=54.08920096406033&minLng=-8.15185546875&maxLng=-7.400665283203125&fuel=diesel&noCache=0.15652134642004967

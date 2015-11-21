@@ -1,0 +1,7 @@
+oauth.consumerKey=45DJlWOLGgsjWVWB0rDbqw
+oauth.consumerSecret=h9e0TAg2Tt5ZSt0JV11qraDvq5Nqb2pTytAP7lXn0
+oauth.accessToken=39567049-cLX4HIdFbmisnu51BNrzw1nDnKjznKRHCB2kbF40N
+oauth.accessTokenSecret=PF7iv6sXnTwX8Ikqr5QNagwvVs72aOvce3sDXevYA
+debug=true
+twitter4j.debug
+http.prettyDebug=true
