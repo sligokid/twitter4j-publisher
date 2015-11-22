@@ -1,6 +1,6 @@
 # twitter4j-publisher 
 
-Twitter publisher latest petrol / diesel prices / football / F1 / news stories
+Twitter publisher latest petrol / diesel prices / football / F1 / news stories (2013)
 
 https://twitter.com/sligopetrol 
 
