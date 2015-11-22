@@ -1,5 +1,7 @@
 # twitter4j-publisher 
 
+Twitter publisher latest petrol / diesel prices / football / F1 / news stories
+
 https://twitter.com/sligopetrol 
 
 https://twitter.com/newsnowirl 
@@ -8,14 +10,14 @@ https://twitter.com/newsnowloi
 
 https://twitter.com/newsnowf1 
 
-Twitter publisher latest petrol / diesel prices / football / F1 / news stories
+Screen scraping of online pricing website.
 
 http://www.pumps.ie/ + Java + Twitter4J
 
+Screen scraping of online news website.
+
 http://www.newsnow.co.uk/h/Sport/Football/Premier+League + Java + Twitter4J
 
-http://twitter4j.org/en/index.html
- 
 ----------------------------------
 To build & deploy:
 
@@ -78,3 +80,11 @@ Main class: com.magoo.twitter.newsnow.LatestNewsStory
 Arguments: etc/account.properties
 
 -----------------------------------
+
+Ref: 
+
+http://twitter4j.org/en/index.html
+ 
+http://www.newsnow.co.uk/h/
+
+http://www.pumps.ie/
