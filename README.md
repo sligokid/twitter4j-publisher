@@ -19,7 +19,7 @@ Screen scraping of online news website.
 http://www.newsnow.co.uk/h/Sport/Football/Premier+League + Java + Twitter4J
 
 ----------------------------------
-To build & deploy:
+To build:
 
 $ clean install
 
@@ -73,9 +73,22 @@ hashtag=#ireland #news
 
 ---------------------------------
 
+To deploy:
+
+[Eclipse Run configuration] [NewsNow]
+
 project:twitter4j-publisher
 
 Main class: com.magoo.twitter.newsnow.LatestNewsStory
+
+Arguments: etc/account.properties
+
+
+[Eclipse Run configuration] [SligoPetrol]
+
+project:twitter4j-publisher
+
+Main class: com.magoo.twitter.fuel.LatestFuelPrice
 
 Arguments: etc/account.properties
 
