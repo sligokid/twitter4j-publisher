@@ -1,27 +1,46 @@
-# twitter4j-publisher 
+# twitter4j-publisher [![Build Status](https://travis-ci.org/sligokid/twitter4j-publisher.svg?branch=master)](https://travis-ci.org/sligokid/twitter4j-publisher)
 
-Twitter publisher latest petrol / diesel prices / football / F1 / news stories (2013)
+Twitter publisher 
+Publish the latest petrol / diesel prices / football / F1 / news stories (2013)
 
-https://twitter.com/sligopetrol 
+## Table of Contents
+  - [Introduction](#introduction)
+  - [Overview](#overview)
+  - [Demo](#demo)
+  - [Install](#install)
+  - [Limitations](#limitations)
 
-https://twitter.com/newsnowirl 
+## Introduction
 
-https://twitter.com/newsnowloi 
+This simple publisher that publishes short news links as tweets via Twitter API.
 
-https://twitter.com/newsnowf1 
+The publishers screen scrape several news sites and publish the latest available news story based on a particular subject. 
 
-Screen scraping of online pricing website.
+## Overview
+
+This program is a personal project developed to demonstrate the integration of Java based screen scraping, XML and HTML parsing and Twitter API: 
 
 http://www.pumps.ie/ + Java + Twitter4J
-
-Screen scraping of online news website.
-
 http://www.newsnow.co.uk/h/Sport/Football/Premier+League + Java + Twitter4J
 
-----------------------------------
-To build:
+## Demo
 
-$ clean install
+### The latest petrol / diesel prices in Ireland (32 counties daily)
+- https://twitter.com/sligopetrol 
+- https://twitter.com/sligodiesel
+- https://twitter.com/dublinpetrol 
+- https://twitter.com/dublindiesel
+
+### The latest news stories in Ireland (hourly)
+- https://twitter.com/newsnowirl 
+
+### The latest sport stories in Ireland (hourly)
+- https://twitter.com/newsnowloi 
+- https://twitter.com/newsnowf1 
+
+## Install
+----------------------------------
+$ mvn clean install
 
 Setup dev account on https://dev.twitter.com.
 
@@ -101,3 +120,7 @@ http://twitter4j.org/en/index.html
 http://www.newsnow.co.uk/h/
 
 http://www.pumps.ie/
+
+
+## Limitations
+Twitter now limits the amount of accounts a single email address can hold.
