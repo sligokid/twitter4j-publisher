@@ -25,6 +25,11 @@ http://www.newsnow.co.uk/h/Sport/Football/Premier+League + Java + Twitter4J
 
 ## Demo
 
+![docs-diagram](https://user-images.githubusercontent.com/6519496/28394275-b25c5ad0-6ce3-11e7-8281-e3650a721e65.png)
+![docs-diagram](https://user-images.githubusercontent.com/6519496/28394317-0280472e-6ce4-11e7-87d8-a4611232f001.png)
+
+
+
 ### The latest petrol / diesel prices in Ireland (32 counties daily)
 - https://twitter.com/sligopetrol 
 - https://twitter.com/sligodiesel
